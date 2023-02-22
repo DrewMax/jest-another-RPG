@@ -1,0 +1,25 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "Object oriented RPG ",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrewMax/jest-another-RPG.git"
+  },
+  "keywords": [
+    "RPG"
+  ],
+  "author": "Drew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DrewMax/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/DrewMax/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
